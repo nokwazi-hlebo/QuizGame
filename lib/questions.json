@@ -1,8 +1,8 @@
 {"questions":[
 	{"question": "How many stones did Thanos get on Infinity war?", "choices": ["3", "1", "7", "All the above"], "correctAnswer":2},
-	{"question": "How is stronger in this Marvel superheros?", "choices": ["Black panther", "Hulk", "Superman", "Groot"], "correctAnswer":2},
+	{"question": "Who is strongest superheros?", "choices": ["Black panther", "Hulk", "Superman", "Groot"], "correctAnswer":2},
 	{"question": "Current President of South Africa?", "choices": ["Thabo Mbeki", "Nelson Mandela", "Mandla Sithole", "Cyril Ramaphosa"], "correctAnswer":3},
-	{"question": "The most hatered South African President?", "choices": ["Jacob Zuma", "Pranab Mukherjee", "Manmohan singh", "Narendra modi"], "correctAnswer":0}
+	{"question": "The most disliked South African President?", "choices": ["Jacob Zuma", "Pranab Mukherjee", "Manmohan singh", "Narendra modi"], "correctAnswer":0}
 ]}
 
 
